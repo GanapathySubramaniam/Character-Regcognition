@@ -37,15 +37,6 @@ Behold, the mystical powers of CogniVix:
 - 💾 **Magical Exports**: Capture the extracted words in a scroll (or a .txt file)
 - 🌈 **Multi-format Mastery**: From PNGs to JPEGs, no image can hide its secrets
 
-## 🎬 Epic Demo
-
-Imagine a world where images speak... Now watch it happen!
-
-```
-[Place for an mind-blowing GIF or video of CogniVix in action]
-```
-
-*Pro tip: For maximum immersion, play epic background music while watching the demo.*
 
 ## 🧙‍♂️ Installation Magic
 
